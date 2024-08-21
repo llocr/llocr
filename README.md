@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=whit"/>
+  
+</p>
+<p>
 </p>
 
 **Others**
@@ -30,7 +35,7 @@
 </br>
 
 ## 🖥️ Activities
-- `내일배움캠프 Java & Spring 과정 5기`  2024.04 ~ ing
+- `내일배움캠프 Java & Spring 과정 5기`  2024.04 ~ 2024.08
 - `GDSC Sahmyook`  2023.09 ~ 2024.02
 - `벤처 스타트업 아카데미 해커톤 참여`  2023.08.29 ~ 2023.08.30
 - `AWS 동덕여대 X 삼육대 아이디어톤 1등`  2023.08.04 ~ 2023.08.05
