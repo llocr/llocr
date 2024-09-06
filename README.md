@@ -45,7 +45,7 @@
 ## 🤍 Find Me On
 <a href="https://velog.io/@llocr/"><img src="https://img.shields.io/badge/-velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 <a href="https://blog.naver.com/36-96/"><img src="https://img.shields.io/badge/-Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-<a href="https://www.instagram.com/heesue.jpg/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/heesue.yml/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </br>
 
