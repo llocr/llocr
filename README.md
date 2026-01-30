@@ -1,5 +1,5 @@
 # Heesue Lee
-> 🍀 사람과 사람을 연결하는 개발자<br/>
+🍀 사람과 사람을 연결하는 개발자<br/>
 🍀 Sahmyook Univ. <br/>
 🍀 Back-End Developer<br/>
 </br>
