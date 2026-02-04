@@ -58,4 +58,4 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=36_96)](https://solved.ac/36_96)
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:82CD47,100:379237&height=120&animation=fadeIn&section=footer&text=🌳👒🫒&fontAlign=80)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:82CD47,100:379237&height=120&animation=fadeIn&section=footer&text=🌳👒🫒&fontAlign=80) -->
